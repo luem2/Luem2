@@ -35,6 +35,7 @@ const lucianoPinol = {
 
 ## 💻Tech Stack:
 
+<div>
 <img src='./assets/html.svg'>
 <img src='./assets/css.svg'>
 <img src='./assets/styledcomponents.svg'>
@@ -52,6 +53,7 @@ const lucianoPinol = {
 <img src='./assets/inkscape.svg'>
 <img src='./assets/krita.svg'>
 <img src='./assets/git.svg'>
+</div>
 
 ---
 
