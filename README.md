@@ -29,9 +29,17 @@ const lucianoPinol = {
 
 ## Contact me:
 
-[<img src='./assets/portfolio.svg'/>](https://www.lucianopinol.com)
-[<img src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/lucianopinol/)
-[<img src='./assets/email.svg'/>](mailto:dev@lucianopinol.com)
+<div>
+<a href='https://www.lucianopinol.com' target='_blank'>
+<img src='./assets/portfolio.svg'/>
+</a>
+<a href='https://www.linkedin.com/in/lucianopinol/' target='_blank'>
+<img src='./assets/linkedin.svg'/>
+</a>
+<a href='mailto:dev@lucianopinol.com'>
+<img src='./assets/email.svg'/>
+</a>
+</div>
 
 ## 💻Tech Stack:
 
@@ -75,35 +83,46 @@ const lucianoPinol = {
 ## 💼Projects:
 
 <details>
-  <summary>Henry Games</summary>
+  <summary><img align='center' src='./assets/logo5.png' width='30'/> Henry Games</summary>
 
-# HenryGames
+# <img align='center' src='./assets/logo5.png' width='100'/> Henry Games
 
 ### Description:
 
-lorem ipsum lorem impsuaskd asjdkq qjkqjskajd ajskjdakqwn
-Link Deploy:
-Link Repository:
-<img src='./assets/henrygames.png' >
+Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen.
+
+English: Small application to search and create game information, filter by name, rating, genre and origin.
+
+- **Link Deploy**: <a href='https://henrygames.lucianopinol.com' target='_blank'>https://henrygames.lucianopinol.com</a>
+- **Link Repository**: <a href='https://github.com/Luem2/pi-videogames' target='_blank'>https://github.com/Luem2/pi-videogames</a>
+  <a href='https://henrygames.lucianopinol.com' target='_blank'>
+  <img src='./assets/henrygames.png' >
+  </a>
 
 </details>
 
 <details>
-  <summary>RGBTech</summary>
+  <summary><img align='center' src='./assets/logo-dibujo-2.png' width='30'/> RGBTech</summary>
 
-# RGBTech
+# <img align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
 
 ### Description:
 
-lorem ipsum lorem impsuaskd asjdkq qjkqjskajd ajskjdakqwn
+Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más.
 
-Link Deploy:
-Link Repository:
-<img src='./assets/rgbtech.png' >
+English: E-commerce of technological products, focused on technology fans and gamers. It has an administrator panel, user database, access with Google and much more.
+
+- **Link Deploy**: <a href='https://rgbtech.vercel.app/' target='_blank'>https://rgbtech.vercel.app/</a>
+- **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech' target='_blank'>https://github.com/RGBTech-PF/rgbtech</a>
+  <a href='https://rgbtech.vercel.app/' target='_blank'>
+  <img src='./assets/rgbtech.png' >
+  </a>
 
 </details>
 <details>
-  <summary>Conprices</summary>
+  <summary><img align='center' src='./assets/coinprices.png' width='30'/> Conprices</summary>
+
+# <img align='center' src='./assets/coinprices.png' width='100'/> Conprices
 
 # Coming Soon...
 
