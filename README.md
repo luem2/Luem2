@@ -29,8 +29,8 @@ const lucianoPinol = {
 
 ## Contact me:
 
-[<img src='./assets/portfolio.svg'/>](blank:#https://www.lucianopinol.com)
-[<img src='./assets/linkedin.svg'/>](blank:#https://www.linkedin.com/in/lucianopinol/)
+[<img src='./assets/portfolio.svg'/>](https://www.lucianopinol.com)
+[<img src='./assets/linkedin.svg'/>](https://www.linkedin.com/in/lucianopinol/)
 [<img src='./assets/email.svg'/>](mailto:dev@lucianopinol.com)
 
 ## 💻Tech Stack:
@@ -59,6 +59,7 @@ const lucianoPinol = {
 
 ## 🖥️ I would like to learn:
 
+<div>
 <img src='./assets/typescript.svg'>
 <img src='./assets/reactnative.svg'>
 <img src='./assets/solidity.svg'>
@@ -67,6 +68,7 @@ const lucianoPinol = {
 <img src='./assets/figma.svg'>
 <img src='./assets/nextjs.svg'>
 <img src='./assets/electronjs.svg'>
+</div>
 
 ---
 
