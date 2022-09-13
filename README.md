@@ -1,17 +1,18 @@
 <div align='center'>
+<a href='https://lucianopinol.com'>
 <img src='./assets/CircleLogo.png' width='100'/>
+</a>
 <h1>Hi ! I'm Luciano Piñol <img src='./assets/Hi.gif' width='30'/>
 </h1>
-<h2>I'm a Full Stack Developer</h2>
 </div>
 
 ## About me:
 
 ```javascript
 const lucianoPinol = {
-  description: "Im from Argentina, Entre Ríos.
-  I like technology in general, crypto world & learning
-  every day.",
+  description: "Im a Full Stack Developer based in Argentina,
+  Entre Ríos. I am passionate about technology and
+  learning the new ones that come out.",
   technologies: {
     frontend: {
       html: true,
@@ -27,13 +28,13 @@ const lucianoPinol = {
 }
 ```
 
-## Contact me:
+## 👨‍💼 Contact me:
 
 <div>
-<a href='https://www.lucianopinol.com' target='_blank'>
+<a href='https://www.lucianopinol.com'>
 <img src='./assets/portfolio.svg'/>
 </a>
-<a href='https://www.linkedin.com/in/lucianopinol/' target='_blank'>
+<a href='https://www.linkedin.com/in/lucianopinol/'>
 <img src='./assets/linkedin.svg'/>
 </a>
 <a href='mailto:dev@lucianopinol.com'>
@@ -89,13 +90,13 @@ const lucianoPinol = {
 
 ### Description:
 
-Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen.
+Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen. **_Para más información revisar el repositorio._**
 
-English: Small application to search and create game information, filter by name, rating, genre and origin.
+English: Small application to search and create game information, filter by name, rating, genre and origin. **_For more information, check the repository._**
 
-- **Link Deploy**: <a href='https://henrygames.lucianopinol.com' target='_blank'>https://henrygames.lucianopinol.com</a>
-- **Link Repository**: <a href='https://github.com/Luem2/pi-videogames' target='_blank'>https://github.com/Luem2/pi-videogames</a>
-  <a href='https://henrygames.lucianopinol.com' target='_blank'>
+- **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
+- **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
+  <a href='https://henrygames.lucianopinol.com'>
   <img src='./assets/henrygames.png' >
   </a>
 
@@ -108,13 +109,13 @@ English: Small application to search and create game information, filter by name
 
 ### Description:
 
-Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más.
+Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más. **_Para más información revisar el repositorio._**
 
-English: E-commerce of technological products, focused on technology fans and gamers. It has an administrator panel, user database, access with Google and much more.
+English: E-commerce of technological products, focused on technology fans and gamers. It has an administrator panel, user database, access with Google and much more. **_For more information, check the repository._**
 
-- **Link Deploy**: <a href='https://rgbtech.vercel.app/' target='_blank'>https://rgbtech.vercel.app/</a>
-- **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech' target='_blank'>https://github.com/RGBTech-PF/rgbtech</a>
-  <a href='https://rgbtech.vercel.app/' target='_blank'>
+- **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
+- **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
+  <a href='https://rgbtech.vercel.app/'>
   <img src='./assets/rgbtech.png' >
   </a>
 
