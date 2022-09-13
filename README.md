@@ -77,6 +77,7 @@ const lucianoPinol = {
 <img src='./assets/figma.svg'>
 <img src='./assets/nextjs.svg'>
 <img src='./assets/electronjs.svg'>
+<img src='./assets/astrojs.svg'>
 </div>
 
 ---
