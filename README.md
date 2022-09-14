@@ -91,7 +91,7 @@ const lucianoPinol = {
 
 ### Description:
 
-Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen. **_Para más información revisar el repositorio._**
+Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y origen. **_Para más información revisar el repositorio._**
 
 English: Small application to search and create game information, filter by name, rating, genre and origin. **_For more information, check the repository._**
 
