@@ -28,6 +28,54 @@ const lucianoPinol = {
 }
 ```
 
+## 💼Projects:
+
+<details>
+  <summary><img align='center' src='./assets/logo5.png' width='30'/> Henry Games</summary>
+
+# <img align='center' src='./assets/logo5.png' width='100'/> Henry Games
+
+### Description:
+
+Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen. **_Para más información revisar el repositorio._**
+
+English: Small application to search and create game information, filter by name, rating, genre and origin. **_For more information, check the repository._**
+
+- **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
+- **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
+  <a href='https://henrygames.lucianopinol.com'>
+  <img src='./assets/henrygames.png' >
+  </a>
+
+</details>
+
+<details>
+  <summary><img align='center' src='./assets/logo-dibujo-2.png' width='30'/> RGBTech</summary>
+
+# <img align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
+
+### Description:
+
+Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más. **_Para más información revisar el repositorio._**
+
+English: E-commerce of technological products, focused on technology fans and gamers. It has an administrator panel, user database, access with Google and much more. **_For more information, check the repository._**
+
+- **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
+- **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
+  <a href='https://rgbtech.vercel.app/'>
+  <img src='./assets/rgbtech.png' >
+  </a>
+
+</details>
+<details>
+  <summary><img align='center' src='./assets/coinprices.png' width='30'/> Conprices</summary>
+
+# <img align='center' src='./assets/coinprices.png' width='100'/> Conprices
+
+# Coming Soon...
+
+</details>
+
 ## 👨‍💼 Contact me:
 
 <div>
@@ -81,51 +129,3 @@ const lucianoPinol = {
 </div>
 
 ---
-
-## 💼Projects:
-
-<details>
-  <summary><img align='center' src='./assets/logo5.png' width='30'/> Henry Games</summary>
-
-# <img align='center' src='./assets/logo5.png' width='100'/> Henry Games
-
-### Description:
-
-Español: Pequeña aplicación para buscar y crear información sobre juegos, filtrar por nombre, valoración, género y orígen. **_Para más información revisar el repositorio._**
-
-English: Small application to search and create game information, filter by name, rating, genre and origin. **_For more information, check the repository._**
-
-- **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
-- **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
-  <a href='https://henrygames.lucianopinol.com'>
-  <img src='./assets/henrygames.png' >
-  </a>
-
-</details>
-
-<details>
-  <summary><img align='center' src='./assets/logo-dibujo-2.png' width='30'/> RGBTech</summary>
-
-# <img align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
-
-### Description:
-
-Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más. **_Para más información revisar el repositorio._**
-
-English: E-commerce of technological products, focused on technology fans and gamers. It has an administrator panel, user database, access with Google and much more. **_For more information, check the repository._**
-
-- **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
-- **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
-  <a href='https://rgbtech.vercel.app/'>
-  <img src='./assets/rgbtech.png' >
-  </a>
-
-</details>
-<details>
-  <summary><img align='center' src='./assets/coinprices.png' width='30'/> Conprices</summary>
-
-# <img align='center' src='./assets/coinprices.png' width='100'/> Conprices
-
-# Coming Soon...
-
-</details>
