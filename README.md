@@ -74,10 +74,10 @@ const lucianoPinol = {
 <img src='./assets/solidity.svg'>
 <img src='./assets/mongodb.svg'>
 <img src='./assets/mongoose.svg'>
-<img src='./assets/figma.svg'>
+<img src='./assets/astrojs.svg'>
 <img src='./assets/nextjs.svg'>
 <img src='./assets/electronjs.svg'>
-<img src='./assets/astrojs.svg'>
+<img src='./assets/docker.svg'>
 </div>
 
 ---
