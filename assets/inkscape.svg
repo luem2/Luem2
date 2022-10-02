@@ -6,12 +6,34 @@
    aria-label="POSTGRES"
    version="1.1"
    id="svg114206"
+   sodipodi:docname="inkscape.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1446"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.340708"
+     inkscape:cx="3.8449905"
+     inkscape:cy="-66.219282"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg114206" />
   <defs
      id="defs114210" />
   <title
@@ -19,13 +41,13 @@
   <g
      shape-rendering="crispEdges"
      id="g114198"
-     style="fill:#4d4d4d">
+     style="fill:#aa0044">
     <rect
        width="113"
        height="28"
        fill="#316192"
        id="rect114196"
-       style="fill:#4d4d4d" />
+       style="fill:#aa0044" />
   </g>
   <g
      fill="#fff"

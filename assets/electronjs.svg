@@ -6,24 +6,48 @@
    aria-label="REACT NATIVE"
    version="1.1"
    id="svg234067"
+   sodipodi:docname="electronjs.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.6666667"
+     inkscape:cx="70.5"
+     inkscape:cy="13.961538"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg234067" />
   <defs
      id="defs234071" />
   <title
      id="title234055">ELECTRONJS</title>
   <g
      shape-rendering="crispEdges"
-     id="g234059">
+     id="g234059"
+     style="fill:#7137c8">
     <rect
        width="141"
        height="28"
        fill="#20232a"
-       id="rect234057" />
+       id="rect234057"
+       style="fill:#7137c8" />
   </g>
   <g
      fill="#fff"

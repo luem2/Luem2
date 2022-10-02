@@ -59,6 +59,7 @@ const lucianoPinol = {
 <img src='./assets/sequelize.svg'>
 <img src='./assets/trello.svg'>
 <img src='./assets/notion.svg'>
+<img src='./assets/gimp.svg'>
 <img src='./assets/inkscape.svg'>
 <img src='./assets/krita.svg'>
 <img src='./assets/git.svg'>
@@ -78,6 +79,7 @@ const lucianoPinol = {
 <img src='./assets/nextjs.svg'>
 <img src='./assets/electronjs.svg'>
 <img src='./assets/docker.svg'>
+<img src='./assets/graphql.svg'>
 </div>
 
 ---
