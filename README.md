@@ -2,7 +2,7 @@
 <a href='https://lucianopinol.com'>
 <img src='./assets/CircleLogo.png' width='100'/>
 </a>
-<h1>Hi ! I'm Luciano Piñol <img src='./assets/Hi.gif' width='30'/>
+<h1>Hi ! I'm Luciano Piñol <img href='#' src='./assets/Hi.gif' width='30'/>
 </h1>
 </div>
 
@@ -45,24 +45,25 @@ const lucianoPinol = {
 ## 💻Tech Stack:
 
 <div>
-<img src='./assets/html.svg'>
-<img src='./assets/css.svg'>
-<img src='./assets/styledcomponents.svg'>
-<img src='./assets/sass.svg'>
-<img src='./assets/postcss.svg'>
-<img src='./assets/javascript.svg'>
-<img src='./assets/react.svg'>
-<img src='./assets/redux.svg'>
-<img src='./assets/nodejs.svg'>
-<img src='./assets/expressjs.svg'>
-<img src='./assets/postgresql.svg'>
-<img src='./assets/sequelize.svg'>
-<img src='./assets/trello.svg'>
-<img src='./assets/notion.svg'>
-<img src='./assets/gimp.svg'>
-<img src='./assets/inkscape.svg'>
-<img src='./assets/krita.svg'>
-<img src='./assets/git.svg'>
+<img href='#' src='./assets/html.svg'>
+<img href='#' src='./assets/css.svg'>
+<img href='#' src='./assets/styledcomponents.svg'>
+<img href='#' src='./assets/sass.svg'>
+<img href='#' src='./assets/postcss.svg'>
+<img href='#' src='./assets/javascript.svg'>
+<img href='#' src='./assets/react.svg'>
+<img href='#' src='./assets/nextjs.svg'>
+<img href='#' src='./assets/redux.svg'>
+<img href='#' src='./assets/nodejs.svg'>
+<img href='#' src='./assets/expressjs.svg'>
+<img href='#' src='./assets/postgresql.svg'>
+<img href='#' src='./assets/sequelize.svg'>
+<img href='#' src='./assets/trello.svg'>
+<img href='#' src='./assets/notion.svg'>
+<img href='#' src='./assets/gimp.svg'>
+<img href='#' src='./assets/inkscape.svg'>
+<img href='#' src='./assets/krita.svg'>
+<img href='#' src='./assets/git.svg'>
 </div>
 
 ---
@@ -70,16 +71,15 @@ const lucianoPinol = {
 ## 🖥️ I would like to learn:
 
 <div>
-<img src='./assets/typescript.svg'>
-<img src='./assets/reactnative.svg'>
-<img src='./assets/solidity.svg'>
-<img src='./assets/mongodb.svg'>
-<img src='./assets/mongoose.svg'>
-<img src='./assets/astrojs.svg'>
-<img src='./assets/nextjs.svg'>
-<img src='./assets/electronjs.svg'>
-<img src='./assets/docker.svg'>
-<img src='./assets/graphql.svg'>
+<img href='#' src='./assets/typescript.svg'>
+<img href='#' src='./assets/reactnative.svg'>
+<img href='#' src='./assets/solidity.svg'>
+<img href='#' src='./assets/mongodb.svg'>
+<img href='#' src='./assets/mongoose.svg'>
+<img href='#' src='./assets/astrojs.svg'>
+<img href='#' src='./assets/electronjs.svg'>
+<img href='#' src='./assets/docker.svg'>
+<img href='#' src='./assets/graphql.svg'>
 </div>
 
 ---
@@ -87,9 +87,9 @@ const lucianoPinol = {
 ## 💼Projects:
 
 <details>
-  <summary><img align='center' src='./assets/logo5.png' width='30'/> Henry Games</summary>
+  <summary><img href='#' align='center' src='./assets/logo5.png' width='30'/> Henry Games</summary>
 
-# <img align='center' src='./assets/logo5.png' width='100'/> Henry Games
+# <img href='#' align='center' src='./assets/logo5.png' width='100'/> Henry Games
 
 ### Description:
 
@@ -100,15 +100,15 @@ English: Small application to search and create game information, filter by name
 - **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
 - **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
   <a href='https://henrygames.lucianopinol.com'>
-  <img src='./assets/henrygames.png' >
+  <img href='#' src='./assets/henrygames.png' >
   </a>
 
 </details>
 
 <details>
-  <summary><img align='center' src='./assets/logo-dibujo-2.png' width='30'/> RGBTech</summary>
+  <summary><img href='#' align='center' src='./assets/logo-dibujo-2.png' width='30'/> RGBTech</summary>
 
-# <img align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
+# <img href='#' align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
 
 ### Description:
 
@@ -124,9 +124,9 @@ English: E-commerce of technological products, focused on technology fans and ga
 
 </details>
 <details>
-  <summary><img align='center' src='./assets/coinprices.png' width='30'/> Conprices</summary>
+  <summary id='summarycoinprices'><img href='#summarycoinprices' align='center' src='./assets/coinprices.png' width='30'/> Conprices</summary>
 
-# <img align='center' src='./assets/coinprices.png' width='100'/> Conprices
+# <img href='#' align='center' src='./assets/coinprices.png' width='100'/> Conprices
 
 # Coming Soon...
 
