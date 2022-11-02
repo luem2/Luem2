@@ -64,6 +64,9 @@ const lucianoPinol = {
 <img href='#' src='./assets/inkscape.svg'>
 <img href='#' src='./assets/krita.svg'>
 <img href='#' src='./assets/git.svg'>
+<img href='#' src='./assets/windows.svg'></img>
+<img href='#' src='./assets/linux.svg'></img>
+
 </div>
 
 ---
