@@ -21,7 +21,9 @@ const lucianoPinol = {
     fullName: 'Luciano Piñol',
     dateOfBirth: 'August 2, 1996',
     from: 'Argentina, Entre Ríos'
-    about: `I am a Computer Technician and Full Stack Web Developer, graduated from Henry's academy. I'm passionate about new technologies, software development, cybersecurity, blockchain, web3 and programming languages.`,
+    about: `I am a Computer Technician and Full Stack Web Developer, graduated from Henry's academy.
+    I'm passionate about new technologies, software development, cybersecurity, blockchain, web3 and
+    programming languages.`,
     hobbies: ['Play guitar', 'Running and sports', 'programming, thats right!'],
 }
 ```
@@ -36,19 +38,13 @@ const lucianoPinol = {
 
 > ### https://lucianopinol.com/
 
-<br/>
-
 ### - Link CV English:
 
 > ### https://lucianopinol.com/cv-luciano-pinol-english.pdf
 
-<br/>
-
 ### - Link CV Spanish:
 
 > ### https://lucianopinol.com/cv-luciano-pinol-spanish.pdf
->
-> <br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,8 +112,6 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 
 </details>
 
-<br/>
-
 ### <img href='#Projects' align='center' src='./assets/logo-dibujo-2.png' width='40'/><b>RGBTech</b>
 
 <details>
@@ -137,8 +131,6 @@ English: E-commerce of technological products, focused on technology fans and ga
 -   > **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a> > <a href='https://rgbtech.vercel.app/'> > <img src='./assets/rgbtech.png' > > </a>
 
 </details>
-
-<br/>
 
 ### <img href='#Projects' align='center' src='./assets/coinprices.png' width='40'/><b>Conprices</b>
 
