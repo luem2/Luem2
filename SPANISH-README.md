@@ -6,7 +6,7 @@
 <a href='https://lucianopinol.com'>
 <img src='./assets/CircleLogo.png' width='100'/>
 </a>
-<h1>Hi ! I'm Luciano Piñol <img href='#' src='./assets/Hi.gif' width='30'/>
+<h1>Hola ! Soy Luciano Piñol <img href='#' src='./assets/Hi.gif' width='30'/>
 </h1>
 </div>
 
@@ -14,43 +14,43 @@
 
 <!-- About me -->
 
-# About me
+# Sobre mi
 
 ```js
 const lucianoPinol = {
-    fullName: 'Luciano Piñol',
-    dateOfBirth: 'August 2, 1996',
-    from: 'Argentina, Entre Ríos'
-    about: `I am a Computer Technician and Full Stack Web Developer, graduated from Henry's academy. I'm passionate about new technologies, software development, cybersecurity, blockchain, web3 and programming languages.`,
-    hobbies: ['Play guitar', 'Running and sports', 'programming, thats right!'],
+    nombreCompleto: 'Luciano Piñol',
+    fechaNacimiento: '2 de Agosto de 1996',
+    de: 'Argentina, Entre Ríos'
+    sobreMi: 'Soy Técnico en Computación y Full Stack Web Developer, egresado de la academia de Henry. Me apasionan las nuevas tecnologías, el desarrollo de software, la ciberseguridad, blockchain, web3 y los lenguajes de programación.',
+    pasatiempos: ['Tocar la guitarra', 'Correr y hacer deportes', 'Programar, Asi es!'],
 }
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 <!-- Visit my Portfolio -->
 
-# Portfolio and CV:
+# Portfolio y CV:
 
-### - Link Portfolio:
+### - Enlace al Portfolio:
 
 > ### https://lucianopinol.com/
 
 <br/>
 
-### - Link CV English:
+### - Enlace al CV en Inglés:
 
 > ### https://lucianopinol.com/cv-luciano-pinol-english.pdf
 
 <br/>
 
-### - Link CV Spanish:
+### - Enlace al CV en Español:
 
 > ### https://lucianopinol.com/cv-luciano-pinol-spanish.pdf
 >
 > <br/>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 <!-- Tech Stack -->
 
@@ -85,20 +85,20 @@ const lucianoPinol = {
 [![Notion][notion]][notion-url]
 [![VSCode][vscode]][vscode-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 <!-- Projects  -->
 
-# Projects
+# Proyectos
 
 ### <img href='#Projects' align='center' src='./assets/logo5.png' width='40'/> <b> Henry Games </b>
 
 <details>
-  <summary><b>More Details:</b></summary>
+  <summary><b>Más Detalles:</b></summary>
   
 # <img href='#Projects' align='center' src='./assets/logo5.png' width='100'/>Henry Games
 
-## Description:
+## Descripción:
 
 Español: Proyecto individual hecho en el Bootcamp de Henry, es una aplicación para buscar y crear informacion de juegos, filtrar por nombre, puntuación, género y origen. **_Para más información revisar el repositorio._**
 
@@ -106,9 +106,9 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 
 <br/>
 
--   > **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
+-   > **Enlace al Despliegue**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
 
--   > **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
+-   > **Enlace al Repositorio**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
 
     > <a href='https://henrygames.lucianopinol.com'>
     > <img href='#' src='./assets/henrygames.png' >
@@ -121,11 +121,11 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 ### <img href='#Projects' align='center' src='./assets/logo-dibujo-2.png' width='40'/><b>RGBTech</b>
 
 <details>
-  <summary><b>More Details:</b></summary>
+  <summary><b>Más detalles:</b></summary>
 
 # <img href='#Projects' align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
 
-## Description:
+## Descripción:
 
 Español: E-commerce de productos tecnológicos, enfocado para los aficionados de la tecnología y a los gamers. Cuenta con panel de administrador, base de datos para usuarios, acceso con Google y mucho más. **_Para más información revisar el repositorio._**
 
@@ -133,8 +133,8 @@ English: E-commerce of technological products, focused on technology fans and ga
 
 <br/>
 
--   > **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
--   > **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a> > <a href='https://rgbtech.vercel.app/'> > <img src='./assets/rgbtech.png' > > </a>
+-   > **Enlace al Despliegue**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
+-   > **Enlace al Repositorio**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a> > <a href='https://rgbtech.vercel.app/'> > <img src='./assets/rgbtech.png' > > </a>
 
 </details>
 
@@ -143,25 +143,25 @@ English: E-commerce of technological products, focused on technology fans and ga
 ### <img href='#Projects' align='center' src='./assets/coinprices.png' width='40'/><b>Conprices</b>
 
 <details>
-  <summary><b>More Details:</b></summary>
+  <summary><b>Más Detalles:</b></summary>
 
 # <img href='#Projects' align='center' src='./assets/coinprices.png' width='100'/> Conprices
 
-# Coming Soon...
+# Muy pronto...
 
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 <!-- Contact -->
 
-# Contact
+# Contacto
 
 -   Linkedin: [https://linkedin.com/in/lucianopinol](https://linkedin.com/in/lucianopinol)
 -   Telegram: [@Luem02](https://t.me/luem02)
 -   Email: dev@lucianopinol.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">volver al principio</a>)</p>
 
 <!-- Technologies Shields/Badges and their documentation URL -->
 
