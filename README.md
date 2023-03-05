@@ -128,7 +128,12 @@ English: E-commerce of technological products, focused on technology fans and ga
 <br/>
 
 -   > **Link Deploy**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
--   > **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a> > <a href='https://rgbtech.vercel.app/'> > <img src='./assets/rgbtech.png' > > </a>
+
+-   > **Link Repository**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
+
+    <a href='https://rgbtech.vercel.app/'>
+    <img src='./assets/rgbtech.png'>
+    </a>
 
 </details>
 

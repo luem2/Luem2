@@ -106,9 +106,9 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 
 -   > **Enlace al Repositorio**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
 
-    > <a href='https://henrygames.lucianopinol.com'>
-    > <img href='#' src='./assets/henrygames.png' >
-    > </a>
+     <a href='https://henrygames.lucianopinol.com'>
+     <img href='#' src='./assets/henrygames.png' >
+     </a>
 
 </details>
 
@@ -128,7 +128,12 @@ English: E-commerce of technological products, focused on technology fans and ga
 <br/>
 
 -   > **Enlace al Despliegue**: <a href='https://rgbtech.vercel.app/'>https://rgbtech.vercel.app/</a>
--   > **Enlace al Repositorio**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a> > <a href='https://rgbtech.vercel.app/'> > <img src='./assets/rgbtech.png' > > </a>
+
+-   > **Enlace al Repositorio**: <a href='https://github.com/RGBTech-PF/rgbtech'>https://github.com/RGBTech-PF/rgbtech</a>
+
+    <a href='https://rgbtech.vercel.app/'> 
+    <img src='./assets/rgbtech.png' > 
+    </a>
 
 </details>
 
