@@ -87,12 +87,12 @@ const lucianoPinol = {
 
 # Projects
 
-### <img href='#Projects' align='center' src='./assets/logo5.png' width='40'/> <b> Henry Games </b>
+### <picture><img align='center' src='./assets/logo5.png' width='40'/></picture> <b> Henry Games </b>
 
 <details>
   <summary><b>More Details:</b></summary>
   
-# <img href='#Projects' align='center' src='./assets/logo5.png' width='100'/>Henry Games
+# <picture><img align='center' src='./assets/logo5.png' width='100'/></picture>Henry Games
 
 ## Description:
 
@@ -112,12 +112,12 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 
 </details>
 
-### <img href='#Projects' align='center' src='./assets/logo-dibujo-2.png' width='40'/><b>RGBTech</b>
+### <picture><img align='center' src='./assets/logo-dibujo-2.png' width='40'/></picture><b>RGBTech</b>
 
 <details>
   <summary><b>More Details:</b></summary>
 
-# <img href='#Projects' align='center' src='./assets/logo-dibujo-2.png' width='100'/> RGBTech
+# <picture><img align='center' src='./assets/logo-dibujo-2.png' width='100'/></picture> RGBTech
 
 ## Description:
 
@@ -137,12 +137,12 @@ English: E-commerce of technological products, focused on technology fans and ga
 
 </details>
 
-### <img href='#Projects' align='center' src='./assets/coinprices.png' width='40'/><b>Conprices</b>
+### <picture><img align='center' src='./assets/coinprices.png' width='40'/></picture><b>Conprices</b>
 
 <details>
   <summary><b>More Details:</b></summary>
 
-# <img href='#Projects' align='center' src='./assets/coinprices.png' width='100'/> Conprices
+# <picture><img align='center' src='./assets/coinprices.png' width='100'/></picture> Conprices
 
 # Coming Soon...
 
