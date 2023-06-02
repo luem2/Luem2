@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 
 <div align='center'>
-<a href='https://lucianopinol.com'>
+<a href='https://pinol.lat'>
 <img src='./assets/CircleLogo.png' width='100'/>
 </a>
 <h1>Hi ! I'm Luciano Piñol <img href='#' src='./assets/Hi.gif' width='30'/>
@@ -36,15 +36,15 @@ const lucianoPinol = {
 
 ### - Link Portfolio:
 
-> ### https://lucianopinol.com/
+> ### https://pinol.lat/
 
 ### - Link CV English:
 
-> ### https://lucianopinol.com/cv-luciano-pinol-english.pdf
+> ### https://pinol.lat/cv-luciano-pinol-english.pdf
 
 ### - Link CV Spanish:
 
-> ### https://lucianopinol.com/cv-luciano-pinol-spanish.pdf
+> ### https://pinol.lat/cv-luciano-pinol-spanish.pdf
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +102,7 @@ English: Individual project done at Henry's Bootcamp, is an application to searc
 
 <br/>
 
--   > **Link Deploy**: <a href='https://henrygames.lucianopinol.com'>https://henrygames.lucianopinol.com</a>
+-   > **Link Deploy**: <a href='https://henrygames.pinol.lat'>https://henrygames.pinol.lat</a>
 
 -   > **Link Repository**: <a href='https://github.com/Luem2/pi-videogames'>https://github.com/Luem2/pi-videogames</a>
 
@@ -156,7 +156,7 @@ English: E-commerce of technological products, focused on technology fans and ga
 
 -   Linkedin: [https://linkedin.com/in/lucianopinol](https://linkedin.com/in/lucianopinol)
 -   Telegram: [@Luem02](https://t.me/luem02)
--   Email: dev@lucianopinol.com
+-   Email: lucianoepinol@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
