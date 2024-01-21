@@ -1,41 +1,36 @@
-<div align='center'>
-<a href='https://pinol.lat'>
-<img src='./assets/CircleLogo.png' width='100'/>
-</a>
-<h1>Hi ! I'm Luciano Piñol <img href='#' src='./assets/Hi.gif' width='30'/>
-</h1>
-</div>
-
-<br/>
+# Hi there! <img href='#' src='./assets/Hi.gif' width='30'/>
 
 <!-- About me -->
 
-# About me
-
-I am a Full Stack Web Developer and Computer Technician, graduated from Henry's academy. I am passionate about new technologies, software development, cybersecurity, blockchain and Web3. I stand out for being proactive, autonomous and for having ease when it comes to learning new tools. My goal is to excel in the technology sector and inspire people, offering efficient and innovative solutions. I am currently working at Blipconnection as a software developer.
-
+I am Luciano Piñol, software developer and computer technician. I am passionate about new technologies, software development, cybersecurity, blockchain and Web3. I stand out for being proactive, autonomous and for having ease when it comes to learning new tools. My goal is to excel in the technology sector and inspire people, offering efficient and innovative solutions. I am currently working at Blipconnection as a software developer.
 Although I am fully dedicated to my current job, I am always open to explore new opportunities that allow me to continue growing professionally and bringing value to exciting projects.
 
 <!-- Visit my Portfolio -->
 
-# Portfolio and CV:
+## Portfolio and CV:
 
 ### - Link Portfolio:
 
-> ### https://pinol.lat/
+> ### https://pinol.dev/
 
 ### - Link CV English:
 
-> ### https://pinol.lat/cv-luciano-pinol-english.pdf
+> ### https://pinol.dev/cv-luciano-pinol-english.pdf
 
 ### - Link CV Spanish:
 
-> ### https://pinol.lat/cv-luciano-pinol-spanish.pdf
+> ### https://pinol.dev/cv-luciano-pinol-spanish.pdf
 
 <!-- Contact -->
 
-# Contact
+## Contact
 
--   Linkedin: [https://linkedin.com/in/lucianopinol](https://linkedin.com/in/lucianopinol)
--   Telegram: [@Luem02](https://t.me/luem02)
--   Email: lucianoepinol@gmail.com
+- Linkedin: [https://linkedin.com/in/lucianopinol](https://linkedin.com/in/lucianopinol)
+- Telegram: [@Luem02](https://t.me/luem02)
+- Email: lucianoepinol@gmail.com
+
+<!-- Kitty moment -->
+<div flex-direction='column' align='center'>
+<h4>Enjoy this cat! uwu</h4>
+<img src='https://camo.githubusercontent.com/9370a5fdafeaf099cd9008d1703619c97ef43e608e342ec673c6669aec62293d/68747470733a2f2f692e696d6775722e636f6d2f4e79677a6945642e676966' width='200'/>
+</div>
