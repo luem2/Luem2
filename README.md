@@ -2,8 +2,7 @@
 
 <!-- About me -->
 
-I am Luciano Piñol, software developer, database administrator and computer technician. I am passionate about new technologies, software development, cybersecurity, blockchain and Web3. I stand out for being proactive, autonomous and for having ease when it comes to learning new tools. My goal is to excel in the technology sector and inspire people, offering efficient and innovative solutions. I am currently working at Collins S.A as DBA.
-Although I am fully dedicated to my current job, I am always open to explore new opportunities that allow me to continue growing professionally and bringing value to exciting projects.
+I am Luciano Piñol, Software Developer, Database Administrator and Computer Technician. My goal is to excel in the technology sector and inspire people, offering useful, efficient and innovative solutions. I am passionate about new technologies, development, cybersecurity, blockchain and I stand out for being proactive, autonomous, curious and self-taught. Currently, I am working at Collins S.A. as database administrator. Although I am fully dedicated to my current job, I am always open to exploring new opportunities that allow me to continue growing professionally and bringing value to exciting projects.
 
 <!-- Visit my Portfolio -->
 
